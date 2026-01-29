@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atishay Sodhiya  
 
-🚀 Java Backend Developer | DSA Enthusiast | Building Scalable Systems  
+🚀 Full Stack Developer | DSA Enthusiast | Building Scalable Systems  
 
 ---
 
