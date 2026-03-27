@@ -127,13 +127,7 @@ Soon you'll be able to:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=atishay5845&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishay5845&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atishay5845&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishay5845&layout=compact&theme=tokyonight&hide_border=true" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishay5845&theme=tokyonight&hide_border=true" /> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=atishay5845&theme=tokyonight&no-frame=true&row=1&column=7" /> </div>
 
 ---
 
