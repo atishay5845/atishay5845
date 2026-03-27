@@ -98,7 +98,7 @@ Building scalable projects & preparing for GATE 🚀
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/atishay5845/atishay5845/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/atishay5845/atishay5845/output/github-contribution-grid-snake.svg)
 
 ---
 
