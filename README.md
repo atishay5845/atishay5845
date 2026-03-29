@@ -61,7 +61,7 @@ Building scalable projects & preparing for GATE 🚀
 
 ## 🚀 Projects (Real Impact)
 
-### 🎉 Evenera – Event Planning System
+### 🎉 WatchTowerX – Event Monitoring System
 
 - Secure full-stack web app
 - Real-time planning & task management
