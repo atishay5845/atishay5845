@@ -55,7 +55,7 @@ Building scalable projects & preparing for GATE 🚀
 
 ### 🗄️ Database
 
-`MySQL` `MongoDB`
+`MySQL` `MongoDB` `PostgreSQL`
 
 ---
 
