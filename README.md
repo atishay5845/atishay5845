@@ -118,29 +118,135 @@
 
 ---
 
-### 🔥 AdForge — AI UGC Ads Generator
-- Full-stack AI SaaS (React + Node + PostgreSQL)
-- Built **AI pipelines + REST APIs**
-- Integrated **Clerk auth + subscriptions**
-- Handled real users & production flow
+<br>
 
----
-
-### 🌐 WatchTowerX — Event Monitoring SaaS
-- Real-time HTTP monitoring + alerts
-- Built secure dashboards + API auth
-- Stripe-based subscription system
-
----
-
-### 💻 Aty.dev — Portfolio
-- Interactive UI with animations
-- 3D globe + smooth UX
-- Clean and modern design
-
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5000&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=140&multiline=true&repeat=false&lines=Systems+I+built+and+some+I+overengineered...;Welcome+to+my+projects+%F0%9F%9A%80" 
+  />
+</div>
+
+<br>
+
+<div align="left">
+
+<b><i>Projects that actually do something (and didn’t crash… mostly) 😤⚙️</i></b><br><br>
+
+<div style="display:flex; flex-wrap: wrap; gap: 25px;">
+
+<!-- Project 1 -->
+<div>
+  <h3>🔥 AdForge — AI UGC Ads Generator</h3>
+  <p>
+    Built a full-stack AI SaaS platform that generates high-converting ad creatives using AI 🤖💸.  
+    Designed backend APIs and AI pipelines to handle user workflows and content generation efficiently.
+  </p>
+  <p>
+    Includes authentication, subscriptions, and production-ready architecture.  
+    Basically: idea → AI → ready-to-use ads 🚀
+  </p>
+  <b>Tech:</b> React, Node.js, PostgreSQL, Gemini API, Clerk
+</div>
+
+---
+
+<!-- Project 2 -->
+<div>
+  <h3>🌐 WatchTowerX — Event Monitoring SaaS</h3>
+  <p>
+    Real-time monitoring platform that tracks API endpoints and sends alerts via Discord ⚡.  
+    Helps detect failures before users even notice.
+  </p>
+  <p>
+    Built secure dashboards, API authentication, and Stripe-based subscriptions.
+  </p>
+  <b>Tech:</b> Next.js, TypeScript, Prisma, PostgreSQL, Stripe
+</div>
+
+---
+
+<!-- Project 3 -->
+<div>
+  <h3>💻 Aty.dev — Developer Portfolio</h3>
+  <p>
+    A modern portfolio with smooth animations and interactive UI 🌍.  
+    Includes 3D globe visualization and responsive design.
+  </p>
+  <p>
+    Designed to showcase projects with clean UX and performance focus.
+  </p>
+  <b>Tech:</b> Next.js, React, Tailwind CSS
+</div>
+
+---
+
+<!-- Dummy Project 4 -->
+<div>
+  <h3>⚡ DevSync — Real-Time Collaboration Tool</h3>
+  <p>
+    Built a real-time code collaboration platform where multiple users can edit and sync code simultaneously 👨‍💻⚡.  
+    Uses WebSockets for live updates and conflict resolution.
+  </p>
+  <p>
+    Think Google Docs… but for developers.
+  </p>
+  <b>Tech:</b> Node.js, Socket.io, React, MongoDB
+</div>
+
+---
+
+<!-- Dummy Project 5 -->
+<div>
+  <h3>🧠 SmartHire — AI Resume Analyzer</h3>
+  <p>
+    AI-powered system that evaluates resumes and ranks candidates based on job descriptions 🤖📄.  
+    Uses NLP to extract skills and match them intelligently.
+  </p>
+  <p>
+    Built to simulate real-world hiring pipelines.
+  </p>
+  <b>Tech:</b> Python, NLP, FastAPI, PostgreSQL
+</div>
+
+---
+
+<!-- Dummy Project 6 -->
+<div>
+  <h3>📊 InsightFlow — Data Analytics Dashboard</h3>
+  <p>
+    Full-stack analytics dashboard that visualizes large datasets in real time 📈.  
+    Includes filters, charts, and dynamic querying.
+  </p>
+  <p>
+    Turns raw data into actionable insights.
+  </p>
+  <b>Tech:</b> React, Chart.js, Node.js, MySQL
+</div>
+
+---
+
+<!-- Dummy Project 7 -->
+<div>
+  <h3>🔐 AuthX — Secure Authentication System</h3>
+  <p>
+    Built a reusable authentication system with JWT, OAuth, and role-based access control 🔐.  
+    Designed for scalability and security.
+  </p>
+  <p>
+    Can plug into any SaaS product easily.
+  </p>
+  <b>Tech:</b> Node.js, Express, JWT, MongoDB
+</div>
+
+</div>
+</div>
+
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
