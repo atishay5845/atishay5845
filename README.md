@@ -1,171 +1,187 @@
 <div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=900&height=220&multiline=true&repeat=false&lines=Me%3A+writes+scalable+code;Backend%3A+handling+AI+pipelines;Users%3A+actually+using+my+product;System%3A+still+under+control;Me%3A+lets+ship+it+%F0%9F%94%A5"
+  />
+</div>
 
-# ⚡ Atishay Sodhiya
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Builder+%7C+Problem+Solver;Building+real-world+impact+projects" />
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=32&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=900&height=120&lines=So+who+is+building+all+this%3F"
+  />
+</div>
 
+<img
+  src="https://i.pinimg.com/originals/88/4e/cb/884ecb28e4132c084ec6be43a90e495b.gif"
+  width="200"
+  align="right"
+/>
+
+<div>
+
+<b><i>Alright, let's make it official...</i></b><br>
+<b><i>I'm Atishay Sodhiya 🚀</i></b><br><br>
+
+<b><i>Full Stack Developer who actually builds products.</i></b><br>
+<b><i>Not just projects — systems that scale.</i></b><br><br>
+
+<b><i>Backend: APIs, auth, AI pipelines ⚙️</i></b><br>
+<b><i>Frontend: clean UI + real UX 🎯</i></b><br>
+<b><i>Me: trying to keep everything production-ready 😤</i></b>
+
+</div>
+
+<br><br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=120&lines=Still+scrolling%3F+Good.;Let's+connect+like+builders."
+  />
+</div>
+
+<p align="center">
+  <a href="mailto:atishay3910@gmail.com">
+    <img width="50" src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/atishay">
+    <img width="50" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/atishay5845">
+    <img width="50" src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=900&height=120&lines=What+am+I+actually+working+on%3F"
+  />
+</div>
+
+<div>
+
+<b><i>Current Focus:</i></b><br><br>
+
+- 🚀 Building **AI SaaS platforms (AdForge)**
+- ⚙️ Designing **backend systems + APIs**
+- 🔐 Implementing **auth, subscriptions, payments**
+- 🌐 Developing **real-time scalable apps**
+- 🧠 Practicing **DSA (500+ problems solved)**
+
+</div>
+
+<br><br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1100&height=140&lines=Tech+stack+I+actually+use+in+production..."
+  />
+</div>
+
+<b><i>Languages:</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c" />
+</p>
+
+<b><i>Frontend + Backend:</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+<b><i>Databases:</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+<b><i>Tools:</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" />
+</p>
+
+<br><br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=5000&pause=1200&color=00CC88&center=true&vCenter=true&width=1000&height=140&lines=Projects+that+actually+matter..."
+  />
 </div>
 
 ---
 
-## 🖥️ Live Developer Terminal
-
-```bash
-> whoami
-Atishay Sodhiya
-
-> role
-Full Stack Developer | AI Enthusiast
-
-> skills --level
-Frontend     █████████░░ 90%
-Backend      ████████░░░ 80%
-DSA          █████████░░ 85%
-AI/ML        ███████░░░░ 70%
-
-> current_status
-Building scalable projects & preparing for GATE 🚀
-```
+### 🔥 AdForge — AI UGC Ads Generator
+- Full-stack AI SaaS (React + Node + PostgreSQL)
+- Built **AI pipelines + REST APIs**
+- Integrated **Clerk auth + subscriptions**
+- Handled real users & production flow
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Computer Science Student
-- 💻 Strong in **Data Structures, Algorithms & OS Concepts**
-- 🚀 Building **full-stack + AI-powered applications**
-- 🧪 Love solving **real-world problems with tech**
-- 📈 Consistent learner & builder
+### 🌐 WatchTowerX — Event Monitoring SaaS
+- Real-time HTTP monitoring + alerts
+- Built secure dashboards + API auth
+- Stripe-based subscription system
 
 ---
 
-## ⚙️ Tech Stack
-
-### 👨‍💻 Languages
-
-`C++` `JavaScript` `Python` `Java`
-
-### 🌐 Frontend
-
-`HTML` `CSS` `Tailwind` `JavaScript` `jQuery`
-
-### 🔧 Backend
-
-`Node.js` `Express.js` `PHP`
-
-### 🗄️ Database
-
-`MySQL` `MongoDB` `PostgreSQL`
+### 💻 Aty.dev — Portfolio
+- Interactive UI with animations
+- 3D globe + smooth UX
+- Clean and modern design
 
 ---
 
-## 🚀 Projects (Real Impact)
+<br>
 
-### 🎉 WatchTowerX – Event Monitoring System
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-- Secure full-stack web app
-- Real-time planning & task management
-- Built using HTML, Tailwind, JS, PHP, MySQL
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4000&pause=1200&color=00CC88&center=true&vCenter=true&width=1100&height=160&lines=Stats+look+cool...+but+systems+matter+more."
+  />
+</div>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atishay5845&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=atishay5845&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
 
-### 🌐 AI Language Coach
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishay5845&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
 
-- Multilingual chatbot (English, Hindi, Kashmiri)
-- Voice + Text interaction
-- AI-based translation using Gemini API
+<br><br>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 🌱 AI Soil Health Detector (Patent)
-
-- Image-based soil analysis
-- AI recommendations for farmers
-- Combines ML + IoT
-
----
-
-## 📈 My Journey
-
-```text
-2023 → Started coding basics
-2024 → Built projects + learned DSA
-2025 → Full-stack + AI development
-2026 → Preparing for GATE + scaling projects 🚀
-```
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/atishay5845/atishay5845/output/github-contribution-grid-snake.svg)
-
----
-
-## 💼 Why Hire Me?
-
-✔ I build **real, usable projects** — not just tutorials
-✔ Strong fundamentals (**DSA + OS + DBMS**)
-✔ Can develop **full-stack + AI systems independently**
-✔ Focus on **impact, performance & clean code**
-
-👉 I don’t just write code — I solve problems.
-
----
-
-## 🤖 Future: AI Version of Me
-
-Soon you'll be able to:
-
-- Ask about my projects
-- Get answers about my skills
-- Interact with my AI chatbot
-
-🚧 _Currently building…_
-
----
-
-## 📊 GitHub Stats
-
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atishay5845&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishay5845&layout=compact&theme=tokyonight&hide_border=true" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishay5845&theme=tokyonight&hide_border=true" /> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=atishay5845&theme=tokyonight&no-frame=true&row=1&column=7" /> </div>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center"> <a href="https://atydev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://linkedin.com/in/atishay5845"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:atishay3910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/atishay5845"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
----
-
-## 🎯 Current Focus
-
-```javascript
-const focus = {
-  shortTerm: [
-    'Crack GATE with strong fundamentals',
-    'Build production-level full-stack apps',
-    'Improve system design skills',
-  ],
-  longTerm: [
-    'Build scalable tech products',
-    'Work on impactful AI solutions',
-    'Become top-tier engineer',
-  ],
-}
-```
-
----
-
-## 🎁 Hidden Note
-
-If you're reading this…
-You're probably someone who pays attention to detail 👀
-
-Let's build something amazing 🚀
-
----
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=1200&color=3DDC97&center=true&vCenter=true&width=1000&height=160&multiline=true&repeat=false&lines=TL%3BDR+version;Full+Stack+Developer+%2B+AI+Builder;Focused+on+real+products+and+scaling"
+  />
+</div>
 
 <div align="center">
 
-⭐ From [atishay5845](https://github.com/atishay5845)
+<b><i>Who am I?</i></b> — Developer who builds real systems 🚀<br>
+<b><i>What I do?</i></b> — AI SaaS, backend systems, scalable apps ⚙️<br>
+<b><i>Strength:</i></b> DSA + System Thinking + Execution 🧠<br>
+<b><i>Goal:</i></b> Build products that people actually use 🎯<br>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=4000&pause=1200&color=00FFA3&center=true&vCenter=true&width=1000&height=200&multiline=true&repeat=false&lines=If+you+read+till+here...;You're+either+a+recruiter+or+a+builder;Either+way+—+let's+build+something+great+%F0%9F%94%A5"
+  />
 </div>
