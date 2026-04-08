@@ -12,9 +12,9 @@
   />
 </div>
 
-<img
-  src="https://i.pinimg.com/originals/88/4e/cb/884ecb28e4132c084ec6be43a90e495b.gif"
-  width="200"
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  width="200" 
   align="right"
 />
 
